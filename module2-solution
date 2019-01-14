@@ -1,1 +1,74 @@
 
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Assignment Solution for Module 2</title>
+<link rel="stylesheet" href="bootstrap.css">
+<style>
+body{
+	background-color: green;
+}
+
+h1
+{
+	text-align: center;
+}
+h2{
+	background-color: blue;
+	text-align: center;
+margin-left:300px;
+
+
+
+	
+
+}
+.row{
+	margin-bottom: 15px;
+
+
+}
+.row>div{
+	border: 2px solid red;
+	background-color: gray;
+}
+</style>
+
+</head>
+<body>
+<h1>Our menu</h1>	
+<div class="container-fluid">
+	<div class="row">
+
+	
+	<div class="col-md-4  col-sm-6" >
+	
+		<h2>Chicken</h2>
+		Bacon ipsum dolor amet short ribs brisket venison rump drumstick pig sausage prosciutto chicken spare ribs salami picanha doner. Kevin capicola sausage, buffalo bresaola venison turkey shoulder picanha ham pork tri-tip meatball meatloaf ribeye. Doner spare ribs andouille bacon sausage. Ground round jerky brisket pastrami shank.
+	
+
+</div>
+
+<div class="col-md-4 col-sm-6">
+	
+		<h2>Beef</h2>
+		Bacon ipsum dolor amet short ribs brisket venison rump drumstick pig sausage prosciutto chicken spare ribs salami picanha doner. Kevin capicola sausage, buffalo bresaola venison turkey shoulder picanha ham pork tri-tip meatball meatloaf ribeye. Doner spare ribs andouille bacon sausage. Ground round jerky brisket pastrami shank.
+	
+</div>
+
+
+<div class="col-md-4 col-sm-6">
+	
+		<h2>Sushi</h2>
+		Bacon ipsum dolor amet short ribs brisket venison rump drumstick pig sausage prosciutto chicken spare ribs salami picanha doner. Kevin capicola sausage, buffalo bresaola venison turkey shoulder picanha ham pork tri-tip meatball meatloaf ribeye. Doner spare ribs andouille bacon sausage. Ground round jerky brisket pastrami shank.
+	
+
+</div>
+
+
+</div>
+</div>
+</body>
+</html>
